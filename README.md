@@ -1,15 +1,27 @@
-# java-backend-journey
-A new journey is coming
-
 # Java Backend Journey 🚀
 
-Goal: Become a Backend Java Developer and work in top tech companies.
+This repository documents my journey to becoming a professional backend developer.
 
-Started: 22 Feb 2026
+Main Project:
+DoriGO – Medicine Delivery Platform
 
-Stack:
+Tech stack:
 - Java
 - Spring Boot
 - PostgreSQL
+- RabbitMQ
+- Redis
 
-Projects coming soon.
+Projects:
+
+1. dorigo-backend
+Backend services for DoriGO.
+
+2. dorigo-frontend
+Web interface for DoriGO.
+
+3. java-core-practice
+Practice of Java core concepts.
+
+4. system-design-notes
+System architecture and scalability documentation.
